@@ -1,0 +1,28 @@
+# Data manipulation and analysis
+pandas==1.5.3
+numpy==1.23.5
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter notebook
+jupyter==1.0.0
+notebook==6.5.4
+
+# Time series analysis
+statsmodels==0.13.5
+
+# Machine learning
+scikit-learn==1.2.2
+
+# Deep learning (optional, uncomment if needed)
+# tensorflow==2.12.0
+# keras==2.12.0
+
+# Forecasting libraries
+prophet==1.1.4
+pmdarima==2.0.3
+
+# Utility
+tqdm==4.65.0
