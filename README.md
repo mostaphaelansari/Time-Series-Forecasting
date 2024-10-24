@@ -27,9 +27,6 @@ Our Exploratory Data Analysis is conducted in the `EDA.ipynb` notebook. This ana
    - Examining daily, weekly, and monthly sales patterns
    - Investigating holiday effects on sales
 
-## Key Findings
-(You can add key insights from your EDA here)
-
 ## Next Steps
 - Feature engineering based on EDA insights
 - Model selection and training
